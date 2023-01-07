@@ -1,1 +1,43 @@
+.header{
+    background-color:rgb(255, 188, 188);
+    height:100px;
+}
 
+.header-title {
+    color:black;
+    float:left;
+    margin:25px;
+  }
+
+.header-list{
+    list-style: none;
+    float:right;
+    
+    padding:10px;
+    coloe:black;
+    margin:30px 30px 10px 30px;
+}
+
+.list1{
+    padding:15px;
+    background-color:rgb(23, 215, 110);
+}
+
+.list2{
+    padding:15px;
+    background-color:aqua;
+}
+
+.container{
+    padding:50px
+}
+
+.btn1{
+    background-color: orange;
+    font-size: 40px;
+    margin: 20px;
+}
+
+.cat{
+   width:500px;
+}
